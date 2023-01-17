@@ -1,0 +1,181 @@
+user_id,user_alias,user_name,dob_ts,gender,country_code,state_code,city
+adam_lambert,adam_lambert,Adam Lambert,1937-02-24,M,US,MI,MI
+adam_levine,adam_levine,Adam Levine,1993-09-05,M,US,NV,NV
+amy_grant,amy_grant,Amy Grant,1901-06-20,F,US,MS,MS
+andy_grammer,andy_grammer,Andy Grammer,1982-02-19,M,US,MN,MN
+anna_nalick,anna_nalick,Anna Nalick,1981-06-01,F,US,CT,CT
+april_stevens,april_stevens,April Stevens,1901-01-16,F,US,MS,MS
+aretha_franklin,aretha_franklin,Aretha Franklin,1928-02-09,F,US,VA,VA
+ashlee_simpson,ashlee_simpson,Ashlee Simpson,1951-05-22,F,US,AR,AR
+ashley_hamilton,ashley_hamilton,Ashley Hamilton,1958-05-07,F,US,MO,MO
+barry_cowsill,barry_cowsill,Barry Cowsill,1996-08-24,M,US,ND,ND
+bea_miller,bea_miller,Bea Miller,1939-07-15,F,US,CA,CA
+ben_folds,ben_folds,Ben Folds,1932-08-15,M,US,NV,NV
+benny_mardones,benny_mardones,Benny Mardones,1910-04-02,M,US,IL,IL
+billie_hughes,billie_hughes,Billie Hughes,1922-09-12,M,US,MS,MS
+billy_hinsche,billy_hinsche,Billy Hinsche,1932-11-05,M,US,KS,KS
+billy_joel,billy_joel,Billy Joel,1957-11-25,M,US,NJ,NJ
+billy_rancher,billy_rancher,Billy Rancher,1943-03-06,M,US,MD,MD
+blaire_reinhard,blaire_reinhard,Blaire Reinhard,1989-05-02,M,US,ID,ID
+bo_bice,bo_bice,Bo Bice,1943-04-17,F,US,NY,NY
+bobbie_eakes,bobbie_eakes,Bobbie Eakes,1927-07-05,M,US,NY,NY
+bobby_kimball,bobby_kimball,Bobby Kimball,1987-08-10,M,US,FL,FL
+brian_wilson,brian_wilson,Brian Wilson,1940-01-03,M,US,PA,PA
+cady_groves,cady_groves,Cady Groves,1968-12-05,F,US,CO,CO
+carly_smithson,carly_smithson,Carly Smithson,1930-09-05,F,US,CT,CT
+casey_mcpherson,casey_mcpherson,Casey McPherson,1941-04-10,M,US,NM,NM
+cassadee_pope,cassadee_pope,Cassadee Pope,1924-02-04,F,US,MT,MT
+charlie_puth,charlie_puth,Charlie Puth,1934-05-27,M,US,MT,MT
+cher,cher,Cher,1993-07-13,F,US,IN,IN
+chloe_kohanski,chloe_kohanski,Chloe Kohanski,1942-01-12,F,US,CT,CT
+chris_montez,chris_montez,Chris Montez,1932-10-17,M,US,ND,ND
+chrissy_costanza,chrissy_costanza,Chrissy Costanza,1991-02-05,F,US,MO,MO
+christopher_cross,christopher_cross,Christopher Cross,1946-04-26,M,US,AZ,AZ
+colbie_caillat,colbie_caillat,Colbie Caillat,1913-09-20,F,US,MS,MS
+connie_francis,connie_francis,Connie Francis,1947-12-17,F,US,VT,VT
+cory_lerios,cory_lerios,Cory Lerios,1924-01-16,F,US,ME,ME
+dallon_weekes,dallon_weekes,Dallon Weekes,1937-10-07,M,US,NE,NE
+dan_reynolds,dan_reynolds,Dan Reynolds,1932-08-15,M,US,ID,ID
+david_homyk,david_homyk,David Homyk,1912-06-19,M,US,IN,IN
+debbie_harry,debbie_harry,Debbie Harry,1927-11-25,F,US,LA,LA
+demi_lovato,demi_lovato,Demi Lovato,1982-12-03,F,US,MI,MI
+dennis_deyoung,dennis_deyoung,Dennis DeYoung,1912-03-24,M,US,DE,DE
+domino_kirke,domino_kirke,Domino Kirke,1903-07-10,M,US,ID,ID
+donny_osmond,donny_osmond,Donny Osmond,1965-09-20,M,US,IN,IN
+drake_bell,drake_bell,Drake Bell,1923-09-23,M,US,KY,KY
+eliot_lewis,eliot_lewis,Eliot Lewis,1967-07-11,M,US,MT,MT
+elise_trouw,elise_trouw,Elise Trouw,1905-11-14,M,US,WA,WA
+elizabeth_gillies,elizabeth_gillies,Elizabeth Gillies,1945-09-05,F,US,DE,DE
+ellis_hall,ellis_hall,Ellis Hall (musician),1993-06-01,M,US,NH,NH
+eric_carmen,eric_carmen,Eric Carmen,1942-07-01,M,US,CO,CO
+ferras,ferras,Ferras,1972-05-14,M,US,CA,CA
+five_for_fighting,five_for_fighting,Five for Fighting,1998-11-09,M,US,RI,RI
+gabe_saporta,gabe_saporta,Gabe Saporta,1949-09-30,M,US,MO,MO
+gavin_mikhail,gavin_mikhail,Gavin Mikhail,1901-05-24,M,US,HI,HI
+gayle,gayle,Gayle (singer),1938-11-11,M,US,MT,MT
+gerry_beckley,gerry_beckley,Gerry Beckley,1987-09-20,M,US,VT,VT
+gwen_stefani,gwen_stefani,Gwen Stefani,1985-02-06,F,US,MN,MN
+harry_chapin,harry_chapin,Harry Chapin,1955-09-23,M,US,KY,KY
+hayley_williams,hayley_williams,Hayley Williams,1958-06-17,M,US,NV,NV
+hilary_duff,hilary_duff,Hilary Duff,1995-04-24,F,US,VT,VT
+howie_day,howie_day,Howie Day,1979-02-06,M,US,VA,VA
+jackson_browne,jackson_browne,Jackson Browne,1907-03-10,M,US,NC,NC
+james_maslow,james_maslow,James Maslow,1908-11-18,M,US,TX,TX
+jan_kuehnemund,jan_kuehnemund,Jan Kuehnemund,1900-02-02,M,US,TX,TX
+janet_gardner,janet_gardner,Janet Gardner,1961-01-13,M,US,NY,NY
+jason_farol,jason_farol,Jason Farol,1979-11-11,M,US,TX,TX
+javier_colon,javier_colon,Javier Colon,1901-01-14,M,US,VT,VT
+jena_irene_asciutto,jena_irene_asciutto,Jena Irene Asciutto,1910-10-26,F,US,OK,OK
+jennifer_love_hewitt,jennifer_love_hewitt,Jennifer Love Hewitt,1928-11-23,F,US,ID,ID
+jennifer_paige,jennifer_paige,Jennifer Paige,1900-09-23,F,US,OK,OK
+jeremy_messersmith,jeremy_messersmith,Jeremy Messersmith,1986-09-22,F,US,NH,NH
+jett_prescott,jett_prescott,Jett Prescott,1961-09-12,M,US,KS,KS
+jim_croce,jim_croce,Jim Croce,1931-05-11,M,US,ID,ID
+jim_ellison,jim_ellison,Jim Ellison,1971-10-15,M,US,AZ,AZ
+jim_verraros,jim_verraros,Jim Verraros,1978-12-10,M,US,MD,MD
+jimmy_robbins,jimmy_robbins,Jimmy Robbins,1973-04-19,M,US,AZ,AZ
+john_mayer,john_mayer,John Mayer,1920-03-17,M,US,TN,TN
+jonnie_and_brookie,jonnie_and_brookie,Jonnie and Brookie,1964-03-24,M,US,AL,AL
+joseph_williams,joseph_williams,Joseph Williams (musician),1983-08-25,M,US,AL,AL
+josh_groban,josh_groban,Josh Groban,1996-08-20,M,US,SC,SC
+joy_villa,joy_villa,Joy Villa,1922-09-17,M,US,TX,TX
+karen_carpenter,karen_carpenter,Karen Carpenter,1942-07-13,F,US,WI,WI
+katie_pruitt,katie_pruitt,Katie Pruitt,1957-02-11,F,US,LA,LA
+katy_perry,katy_perry,Katy Perry,1911-04-20,F,US,TN,TN
+kaya_stewart,kaya_stewart,Kaya Stewart,1964-10-16,F,US,NM,NM
+kelly_clarkson,kelly_clarkson,Kelly Clarkson,1988-01-04,F,US,RI,RI
+kendall_schmidt,kendall_schmidt,Kendall Schmidt,1969-04-19,F,US,PA,PA
+kenny_loggins,kenny_loggins,Kenny Loggins,1910-03-17,M,US,GA,GA
+kenny_hoopla,kenny_hoopla,Kenny Hoopla,1961-01-04,M,US,TN,TN
+kesha,kesha,Kesha,1909-10-25,F,US,NJ,NJ
+kevin_rudolf,kevin_rudolf,Kevin Rudolf,1955-03-03,M,US,IL,IL
+kim_carnes,kim_carnes,Kim Carnes,1959-07-16,F,US,OR,OR
+kim_shattuck,kim_shattuck,Kim Shattuck,1908-04-19,F,US,WI,WI
+kirsten_price,kirsten_price,Kirsten Price (musician),1925-06-13,F,US,NM,NM
+kris_allen,kris_allen,Kris Allen,1925-09-18,F,US,OR,OR
+lady_gaga,lady_gaga,Lady Gaga,1988-12-08,F,US,WI,WI
+lane_caudell,lane_caudell,Lane Caudell,1981-11-10,M,US,WV,WV
+larry_hoppen,larry_hoppen,Larry Hoppen,1951-12-04,M,US,WI,WI
+leah_kate,leah_kate,Leah Kate,1966-01-24,F,US,WY,WY
+leigh_nash,leigh_nash,Leigh Nash,1902-06-27,M,US,AK,AK
+lil_nas_x,lil_nas_x,Lil Nas X,1971-04-30,M,US,NY,NY
+linda_hopper,linda_hopper,Linda Hopper,1928-05-18,F,US,MD,MD
+linda_ronstadt,linda_ronstadt,Linda Ronstadt,1983-10-01,F,US,AZ,AZ
+lindsay_price,lindsay_price,Lindsay Price,1963-03-05,F,US,MT,MT
+lisa_heller,lisa_heller,Lisa Heller,1984-06-21,F,US,MO,MO
+lisa_marie_presley,lisa_marie_presley,Lisa Marie Presley,1997-06-17,F,US,VA,VA
+liz_phair,liz_phair,Liz Phair,1949-12-05,F,US,WI,WI
+madonna,madonna,Madonna,1963-12-08,F,US,IL,IL
+maggie_lindemann,maggie_lindemann,Maggie Lindemann,1980-06-26,F,US,AZ,AZ
+marcella_detroit,marcella_detroit,Marcella Detroit,1936-05-12,F,US,NY,NY
+marié_digby,marié_digby,Marié Digby,1970-01-24,F,US,MD,MD
+marilyn_martin,marilyn_martin,Marilyn Martin,1900-11-10,M,US,NH,NH
+mark_foster,mark_foster,Mark Foster (musician),1970-05-02,M,US,MT,MT
+mark_mcgrath,mark_mcgrath,Mark McGrath,1945-07-25,M,US,CO,CO
+mary_mcbride,mary_mcbride,Mary McBride (musician),1968-03-15,M,US,TN,TN
+mason_musso,mason_musso,Mason Musso,1937-09-27,M,US,AR,AR
+matt_scannell,matt_scannell,Matt Scannell,1929-11-15,M,US,MI,MI
+matt_white,matt_white,Matt White (musician),1989-05-10,M,US,PA,PA
+mckenna_grace,mckenna_grace,Mckenna Grace,1951-02-13,F,US,OK,OK
+merrill_osmond,merrill_osmond,Merrill Osmond,1997-05-15,F,US,MA,MA
+michael_bolton,michael_bolton,Michael Bolton,1915-01-03,M,US,NE,NE
+michael_nesmith,michael_nesmith,Michael Nesmith,1917-01-11,M,US,VA,VA
+michael_sembello,michael_sembello,Michael Sembello,1951-08-20,M,US,MI,MI
+michelle_branch,michelle_branch,Michelle Branch,1910-08-22,F,US,OH,OH
+micky_dolenz,micky_dolenz,Micky Dolenz,1957-08-10,M,US,TX,TX
+mike_delguidice,mike_delguidice,Mike DelGuidice,1923-12-09,M,US,NJ,NJ
+mikey_wax,mikey_wax,Mikey Wax,1966-11-13,M,US,MT,MT
+miley_cyrus,miley_cyrus,Miley Cyrus,1997-09-16,F,US,MO,MO
+morgan_taylor_reid,morgan_taylor_reid,Morgan Taylor Reid,1939-08-06,M,US,WV,WV
+morley,morley,Morley (singer),1995-09-23,M,US,HI,HI
+nancy_shanks,nancy_shanks,Nancy Shanks,1994-07-16,F,US,SC,SC
+natalie_merchant,natalie_merchant,Natalie Merchant,1939-02-05,F,US,RI,RI
+neil_diamond,neil_diamond,Neil Diamond,1927-08-21,M,US,NE,NE
+neilson_hubbard,neilson_hubbard,Neilson Hubbard,1961-01-14,M,US,DE,DE
+nick_carter,nick_carter,Nick Carter (singer),1991-10-22,M,US,RI,RI
+nick_lachey,nick_lachey,Nick Lachey,1910-09-03,M,US,NV,NV
+niykee_heaton,niykee_heaton,Niykee Heaton,1918-05-21,F,US,CA,CA
+nona_hendryx,nona_hendryx,Nona Hendryx,1968-12-22,F,US,KS,KS
+p._f._sloan,p._f._sloan,P. F. Sloan,1949-07-02,M,US,HI,HI
+paul_gilbert,paul_gilbert,Paul Gilbert,1984-05-09,M,US,WI,WI
+peter_salett,peter_salett,Peter Salett,1913-07-06,M,US,TX,TX
+peter_stuart,peter_stuart,Peter Stuart,1991-03-31,M,US,OK,OK
+philip_bailey,philip_bailey,Philip Bailey,1949-09-08,M,US,MO,MO
+phillip_phillips,phillip_phillips,Phillip Phillips,1957-07-08,M,US,ID,ID
+pink,pink,Pink (singer),1919-12-15,M,US,ME,ME
+poe,poe,Poe (singer),1918-12-07,F,US,ID,ID
+prince,prince,Prince (musician),1937-08-22,M,US,HI,HI
+rachel_platten,rachel_platten,Rachel Platten,1983-09-07,M,US,NY,NY
+ray_charles,ray_charles,Ray Charles,1960-04-27,M,US,ID,ID
+richard_carpenter,richard_carpenter,Richard Carpenter (musician),1926-02-17,M,US,MA,MA
+richard_marx,richard_marx,Richard Marx,1990-12-10,M,US,ME,ME
+rob_thomas,rob_thomas,Rob Thomas (musician),1946-09-12,M,US,SC,SC
+robin_beck,robin_beck,Robin Beck,1974-01-07,M,US,NH,NH
+ryan_starr,ryan_starr,Ryan Starr,1995-07-10,M,US,NJ,NJ
+ryan_tedder,ryan_tedder,Ryan Tedder,1900-10-10,M,US,NY,NY
+sara_bareilles,sara_bareilles,Sara Bareilles,1945-01-16,F,US,OH,OH
+selena_gomez,selena_gomez,Selena Gomez,1971-09-20,F,US,HI,HI
+shaun_cassidy,shaun_cassidy,Shaun Cassidy,1951-08-23,M,US,CA,CA
+sheryl_crow,sheryl_crow,Sheryl Crow,1989-03-05,F,US,CA,CA
+sierra_kay,sierra_kay,Sierra Kay,1946-10-17,F,US,AR,AR
+skylar_grey,skylar_grey,Skylar Grey,1997-11-14,M,US,NE,NE
+sophie_cates,sophie_cates,Sophie Cates,1990-05-01,F,US,DE,DE
+spencer_albee,spencer_albee,Spencer Albee,1985-03-10,M,US,UT,UT
+suzi_quatro,suzi_quatro,Suzi Quatro,1995-04-06,F,US,MD,MD
+tamar_kaprelian,tamar_kaprelian,Tamar Kaprelian,1915-10-11,M,US,AZ,AZ
+taylor_hanson,taylor_hanson,Taylor Hanson,1933-11-14,F,US,ID,ID
+terra_naomi,terra_naomi,Terra Naomi,1924-11-08,F,US,GA,GA
+tila_tequila,tila_tequila,Tila Tequila,1930-11-15,F,US,NE,NE
+tim_harrington,tim_harrington,Tim Harrington (singer),1943-07-19,M,US,WV,WV
+tina_turner,tina_turner,Tina Turner,1984-03-09,F,US,MO,MO
+tom_goss,tom_goss,Tom Goss (musician),1913-04-04,M,US,NY,NY
+tyler_hilton,tyler_hilton,Tyler Hilton,1995-02-16,M,US,LA,LA
+uncle_kracker,uncle_kracker,Uncle Kracker,1981-01-08,M,US,CA,CA
+vanessa_collier,vanessa_collier,Vanessa Collier,1935-07-08,F,US,TN,TN
+virginia_to_vegas,virginia_to_vegas,Virginia to Vegas,1959-12-24,F,US,NE,NE
+wayne_osmond,wayne_osmond,Wayne Osmond,1987-02-09,M,US,DE,DE
+wendy_starland,wendy_starland,Wendy Starland,1942-10-23,F,US,OH,OH
+whitney_wolanin,whitney_wolanin,Whitney Wolanin,1934-09-15,F,US,NY,NY
+zach_callison,zach_callison,Zach Callison,1964-06-21,M,US,LA,LA
+zak_waters,zak_waters,Zak Waters,1911-07-26,M,US,MS,MS
+zarah,zarah,Zarah (entertainer),1915-09-27,F,US,MI,MI
