@@ -103,10 +103,20 @@ class DataExporterJob:
             raise
 
     @staticmethod
-    def convert_to_filecontent(dataset):
+    def convert_to_filecontent(dataset,
+                               dt_col_list,
+                               dt_col_output_format,
+                               col_sep="|",
+                               output_with_header="Y",
+                               output_line_sep="\n"):
         """
         Method to convert the dataset (Athena result format) into output file content.
         :param dataset: Athena format dataset.
+        :param dt_col_list: List of datetime columns to be formatted.
+        :param dt_col_output_format: Datetime column output format (read from job parameter).
+        :param col_sep: Column separator (read from job parameter).
+        :param output_with_header: If the output goes with header or not (read from job parameter).
+        :param output_line_sep: Athena format dataset.
         :return: Output file content to be written out.
         """
         position = 0
@@ -119,14 +129,14 @@ class DataExporterJob:
                     columns_list.append(col["VarCharValue"])
 
                 # Column names joined with column separator parameter.
-                column_names_line = column_separator_parameter.join(columns_list)
+                column_names_line = col_sep.join(columns_list)
                 print(column_names_line)
                 for pos, column_name in enumerate(columns_list):
-                    if column_name in datetime_columns_list:
+                    if column_name in dt_col_list:
                         datetime_columns_positions.append(pos)
 
                 # Deciding if put the header or not.
-                if output_with_header_parameter != "N":
+                if output_with_header != "N":
                     # The row/line is added to the file (content).
                     output_file_content_list.append(column_names_line)
             else:  # Column values.
@@ -138,18 +148,18 @@ class DataExporterJob:
                     if current_position in datetime_columns_positions:
                         try:
                             curr_val_dt = datetime.strptime(current_value, input_datetime_format)
-                            curr_val_str = curr_val_dt.strftime(datetime_columns_output_format_parameter)
+                            curr_val_str = curr_val_dt.strftime(dt_col_output_format)
                         except Exception as ex:
                             curr_val_str = "(DATETIME CONVERSION ERROR)"
                         row_values_list.append(curr_val_str)
                     else:
                         # If the column separator is present in the column value it will be removed.
-                        clean_current_value = current_value.replace(column_separator_parameter, "")
+                        clean_current_value = current_value.replace(col_sep, "")
                         row_values_list.append(clean_current_value)
                     current_position += 1
 
                 # Column values joined with column separator parameter.
-                column_values_line = column_separator_parameter.join(row_values_list)
+                column_values_line = col_sep.join(row_values_list)
                 print(column_values_line)
 
                 # The row/line is added to the file (content).
@@ -159,6 +169,7 @@ class DataExporterJob:
         # File data content.
         file_data = output_line_sep.join(output_file_content_list) + output_line_sep
         return file_data
+
 
 if __name__ == '__main__':
 
@@ -277,7 +288,13 @@ where qst.is_syndicated = 1;
 
     # Build the output based on the query results.
     if query_results is not None:
-        file_data = DataExporterJob.convert_to_filecontent(dataset=query_results)
+        file_data = DataExporterJob.\
+            convert_to_filecontent(dataset=query_results,
+                                   dt_col_list=datetime_columns_list,
+                                   dt_col_output_format=datetime_columns_output_format_parameter,
+                                   col_sep=column_separator_parameter,
+                                   output_with_header=output_with_header_parameter,
+                                   output_line_sep=output_line_sep)
 
         # Making up filename and creating the file (in a local path).
         now = datetime.now()
